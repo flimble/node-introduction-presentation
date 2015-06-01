@@ -1,9 +1,9 @@
 # Node.js Presentation
 
-[! http://flimble.github.io/node-introduction-presentation/#/](online version)
+[online version](http://flimble.github.io/node-introduction-presentation/#/)
 
 Introduction to Node.js presentation to technical team at work.
-Written using [! http://lab.hakim.se/reveal-js/#/](reveal.js)
+Written using [reveal.js](http://lab.hakim.se/reveal-js/#/)
 
 
 
